@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hnBrhRLdm2iBxJCv4MTE+2rIio+HXil7oOjhz1PJhAU=",
+  "Source": "SystemSale.API",
+  "BasePath": "_content/SystemSale.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

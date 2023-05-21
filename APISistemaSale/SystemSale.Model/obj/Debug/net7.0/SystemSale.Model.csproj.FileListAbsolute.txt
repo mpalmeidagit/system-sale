@@ -1,0 +1,14 @@
+C:\Estudos\NET Core\System_sale\system-sale\APISistemaSale\SystemSale.Model\bin\Debug\net7.0\SystemSale.Model.deps.json
+C:\Estudos\NET Core\System_sale\system-sale\APISistemaSale\SystemSale.Model\bin\Debug\net7.0\SystemSale.Model.runtimeconfig.json
+C:\Estudos\NET Core\System_sale\system-sale\APISistemaSale\SystemSale.Model\bin\Debug\net7.0\SystemSale.Model.dll
+C:\Estudos\NET Core\System_sale\system-sale\APISistemaSale\SystemSale.Model\bin\Debug\net7.0\SystemSale.Model.pdb
+C:\Estudos\NET Core\System_sale\system-sale\APISistemaSale\SystemSale.Model\obj\Debug\net7.0\SystemSale.Model.csproj.AssemblyReference.cache
+C:\Estudos\NET Core\System_sale\system-sale\APISistemaSale\SystemSale.Model\obj\Debug\net7.0\SystemSale.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\NET Core\System_sale\system-sale\APISistemaSale\SystemSale.Model\obj\Debug\net7.0\SystemSale.Model.AssemblyInfoInputs.cache
+C:\Estudos\NET Core\System_sale\system-sale\APISistemaSale\SystemSale.Model\obj\Debug\net7.0\SystemSale.Model.AssemblyInfo.cs
+C:\Estudos\NET Core\System_sale\system-sale\APISistemaSale\SystemSale.Model\obj\Debug\net7.0\SystemSale.Model.csproj.CoreCompileInputs.cache
+C:\Estudos\NET Core\System_sale\system-sale\APISistemaSale\SystemSale.Model\obj\Debug\net7.0\SystemSale.Model.dll
+C:\Estudos\NET Core\System_sale\system-sale\APISistemaSale\SystemSale.Model\obj\Debug\net7.0\refint\SystemSale.Model.dll
+C:\Estudos\NET Core\System_sale\system-sale\APISistemaSale\SystemSale.Model\obj\Debug\net7.0\SystemSale.Model.pdb
+C:\Estudos\NET Core\System_sale\system-sale\APISistemaSale\SystemSale.Model\obj\Debug\net7.0\SystemSale.Model.genruntimeconfig.cache
+C:\Estudos\NET Core\System_sale\system-sale\APISistemaSale\SystemSale.Model\obj\Debug\net7.0\ref\SystemSale.Model.dll

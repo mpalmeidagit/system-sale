@@ -1,0 +1,12 @@
+C:\Estudos\NET Core\System_sale\system-sale\APISistemaSale\SystemSale.DTO\bin\Debug\net7.0\SystemSale.DTO.deps.json
+C:\Estudos\NET Core\System_sale\system-sale\APISistemaSale\SystemSale.DTO\bin\Debug\net7.0\SystemSale.DTO.dll
+C:\Estudos\NET Core\System_sale\system-sale\APISistemaSale\SystemSale.DTO\bin\Debug\net7.0\SystemSale.DTO.pdb
+C:\Estudos\NET Core\System_sale\system-sale\APISistemaSale\SystemSale.DTO\obj\Debug\net7.0\SystemSale.DTO.csproj.AssemblyReference.cache
+C:\Estudos\NET Core\System_sale\system-sale\APISistemaSale\SystemSale.DTO\obj\Debug\net7.0\SystemSale.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\NET Core\System_sale\system-sale\APISistemaSale\SystemSale.DTO\obj\Debug\net7.0\SystemSale.DTO.AssemblyInfoInputs.cache
+C:\Estudos\NET Core\System_sale\system-sale\APISistemaSale\SystemSale.DTO\obj\Debug\net7.0\SystemSale.DTO.AssemblyInfo.cs
+C:\Estudos\NET Core\System_sale\system-sale\APISistemaSale\SystemSale.DTO\obj\Debug\net7.0\SystemSale.DTO.csproj.CoreCompileInputs.cache
+C:\Estudos\NET Core\System_sale\system-sale\APISistemaSale\SystemSale.DTO\obj\Debug\net7.0\SystemSale.DTO.dll
+C:\Estudos\NET Core\System_sale\system-sale\APISistemaSale\SystemSale.DTO\obj\Debug\net7.0\refint\SystemSale.DTO.dll
+C:\Estudos\NET Core\System_sale\system-sale\APISistemaSale\SystemSale.DTO\obj\Debug\net7.0\SystemSale.DTO.pdb
+C:\Estudos\NET Core\System_sale\system-sale\APISistemaSale\SystemSale.DTO\obj\Debug\net7.0\ref\SystemSale.DTO.dll

@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SystemSale.BLL\SystemSale.BLL.csproj" />
+    <ProjectReference Include="..\SystemSale.DAL\SystemSale.DAL.csproj" />
+    <ProjectReference Include="..\SystemSale.Utility\SystemSale.Utility.csproj" />
+  </ItemGroup>
+
+</Project>
