@@ -1,13 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "mhlioZHTyoYiEcVC4agKJhTkC4fiqNA1J8bY64av8at4Pxn8jeuCFURy4JHNIAuXaUPxwln/zwZKBYGsUEk48w==",
+  "dgSpecHash": "0Jnc1u5vWzIHfqZbzNj7TqbzIHWmpdJzQgfNBV98dzvtq2fHCWCqE7UPma0kpC2m0VpITmU7v2qZzynaHeUEuw==",
   "success": true,
   "projectFilePath": "C:\\Estudos\\NET Core\\System_sale\\system-sale\\APISistemaSale\\SystemSale.IOC\\SystemSale.IOC.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ext.malmeida\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\ext.malmeida\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "C:\\Users\\ext.malmeida\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\ext.malmeida\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\ext.malmeida\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\ext.malmeida\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\ext.malmeida\\.nuget\\packages\\microsoft.data.sqlclient\\5.0.1\\microsoft.data.sqlclient.5.0.1.nupkg.sha512",
     "C:\\Users\\ext.malmeida\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\5.0.1\\microsoft.data.sqlclient.sni.runtime.5.0.1.nupkg.sha512",
     "C:\\Users\\ext.malmeida\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.1\\microsoft.entityframeworkcore.7.0.1.nupkg.sha512",
