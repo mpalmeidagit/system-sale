@@ -81,3 +81,5 @@ C:\Estudos\NET Core\System_sale\system-sale\APISistemaSale\SystemSale.API\obj\De
 C:\Estudos\NET Core\System_sale\system-sale\APISistemaSale\SystemSale.API\obj\Debug\net7.0\SystemSale.API.pdb
 C:\Estudos\NET Core\System_sale\system-sale\APISistemaSale\SystemSale.API\obj\Debug\net7.0\SystemSale.API.genruntimeconfig.cache
 C:\Estudos\NET Core\System_sale\system-sale\APISistemaSale\SystemSale.API\obj\Debug\net7.0\ref\SystemSale.API.dll
+C:\Estudos\NET Core\System_sale\system-sale\APISistemaSale\SystemSale.API\bin\Debug\net7.0\AutoMapper.dll
+C:\Estudos\NET Core\System_sale\system-sale\APISistemaSale\SystemSale.API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
