@@ -107,7 +107,7 @@ namespace SystemSale.Utility
                  .ForMember(destiny => destiny.NumberDocument,
                 opt => opt.MapFrom(origin => origin.IdSaleNavigation.NumberDocument)
                 )
-                 .ForMember(destiny => destiny.typePayment,
+                 .ForMember(destiny => destiny.TypePayment,
                 opt => opt.MapFrom(origin => origin.IdSaleNavigation.TypePayment)
                 )
                  .ForMember(destiny => destiny.TotalSale,

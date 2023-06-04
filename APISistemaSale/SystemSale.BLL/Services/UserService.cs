@@ -105,7 +105,7 @@ namespace SystemSale.BLL.Services
             }
         }
 
-        public async Task<SessionDTO> validateCredentials(string email, string password)
+        public async Task<SessionDTO> ValidateCredentials(string email, string password)
         {
             try
             {

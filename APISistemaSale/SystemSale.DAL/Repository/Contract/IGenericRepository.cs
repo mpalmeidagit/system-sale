@@ -8,6 +8,6 @@ namespace SystemSale.DAL.Repository.Contract
         Task<TModelo> Create(TModelo model);
         Task<bool> Update(TModelo model);
         Task<bool> Delete(TModelo model);
-        Task<IQueryable<TModelo>> GetAll(Expression<Func<TModelo, bool>> filter = null);
+        Task<IQueryable<TModelo>> GetAll(Expression<Func<TModelo, bool>>? filter = null);
     }
 }
