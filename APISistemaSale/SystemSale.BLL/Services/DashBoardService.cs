@@ -18,6 +18,12 @@ namespace SystemSale.BLL.Services
         private readonly IMapper _mapper;
         private readonly ISaleRepository _saleRepository;
 
+        public DashBoardService(IGenericRepository<Product> productRepository, IMapper mapper, ISaleRepository saleRepository)
+        {
+            _productRepository = productRepository;
+            _mapper = mapper;
+            _saleRepository = saleRepository;
+        }
 
         public Task<DashBoardDTO> Summary()
         {
